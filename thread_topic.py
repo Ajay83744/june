@@ -1,7 +1,7 @@
 # import threading
 # from threading import *
-# from time import sleep
-
+# from time imporvrt sleep
+# i edited this file
 # class First_Thread(Thread):
 #     def run(self):
 #         for i in range(1,10):
